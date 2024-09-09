@@ -1,0 +1,6 @@
+#sua connection string:
+mongodb.connectionString=mongodb+srv://natanaelsantos:natanaeldb86@natanaeldb.e239y65.mongodb.net/?retryWrites=true&w=majority&appName=Natanaeldb
+
+servico.ping.host=http://localhost:8001/
+porta.servidor=8000
+servico.nome=natanael
