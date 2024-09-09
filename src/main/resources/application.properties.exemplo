@@ -1,6 +1,6 @@
-# sua connection string do MongoDB:
-mongodb.connectionString=
+#sua connection string:
+mongodb.connectionString=mongodb+srv://natanaelsantos:natanaeldb86@natanaeldb.e239y65.mongodb.net/?retryWrites=true&w=majority&appName=Natanaeldb
 
 porta.servidor=8001
-servico.ping.host=http://localhost:8001
-servico.nome="participantes - exemplo"
+servico.ping.host=http://localhost:8001/
+servico.nome=natanael
